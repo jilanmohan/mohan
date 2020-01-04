@@ -1,4 +1,8 @@
  Thi is for testing a First git file
+<<<<<<< .merge_file_St8z0s
  This is for testing FUSION Branch
 
  This is for testing a FUSION Branch-2
+=======
+Thyis is for testing a CLOUD branch
+>>>>>>> .merge_file_ZVVKnw
